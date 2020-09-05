@@ -23,7 +23,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/vektah/gqlparser/v2 v2.0.1
 	github.com/wsxiaoys/terminal v0.0.0-20160513160801-0940f3fc43a0
-	github.com/xor-gate/goexif2 v1.1.0
+	github.com/xor-gate/goexif2 v1.1.1-0.20200302180810-98a5e592ea17
 	golang.org/x/crypto v0.0.0-20200728195943-123391ffb6de
 	golang.org/x/image v0.0.0-20200801110659-972c09e46d76
 	golang.org/x/net v0.0.0-20200813134508-3edf25e44fcc // indirect
